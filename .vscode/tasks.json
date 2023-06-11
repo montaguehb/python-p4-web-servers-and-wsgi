@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "script",
+			"scriptType": "python",
+			"path": "server/",
+			"fileName": "werkzeug_app.py",
+			"scriptFile": true,
+			"script": "py",
+			"target": "py",
+			"uri": {
+				"$mid": 1,
+				"path": "/home/historia/Development/code/phase-4/python-p4-web-servers-and-wsgi/server/werkzeug_app.py",
+				"scheme": "vscode-remote",
+				"authority": "wsl+Ubuntu"
+			},
+			"takesArgs": false,
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"label": "python: werkzeug_app.py"
+		}
+	]
+}
